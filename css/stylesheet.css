@@ -1,0 +1,73 @@
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+    
+
+}
+img {
+    border-style: solid;
+    border-radius: 50%;
+    border-width: 3mm;
+    border-color: red;
+    
+}
+
+nav {
+    
+    color: black;
+}
+#sidebar {
+    background-color: aqua;
+    width: 100%;
+    height: 100%;
+    padding: 1rem;
+}
+.navlist {
+    list-style-type: none;
+    padding: 0%;
+}
+
+#pfp {
+    width: 15%;
+    height: 15%;
+}
+  
+
+body{
+    display: flex;
+    flex-direction: column;
+}
+
+main {
+
+    display: flex;
+    flex-direction: row;
+}
+
+.poes {
+    padding: 10mm;
+}
+
+footer {
+background-color: black;
+color: white;
+text-align: center;
+}
+
+.skills {
+    list-style-type: circle;
+}
+
+#insta {
+    width: 10mm;
+    border-width: 1mm;
+}
+
+
+
+    
+
+ 
+
+   
